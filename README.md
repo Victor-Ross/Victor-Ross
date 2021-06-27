@@ -1,4 +1,4 @@
-## Olá, eu sou o Víctor Ross
+## Olá, me chamo Víctor Ross. Seja bem vindo ao meu perfil! :D
  <div>
   <a href="https://github.com/Victor-Ross">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Ross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
